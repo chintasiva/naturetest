@@ -14,6 +14,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/100285703_15-nandini-goodlife-toned-milk.jpg",
             "name": "GoodLife UHT Treated Toned Milk",
             "rating": "4.1",
+            "Price": "29.99",
             "CartQuantity": 1
         },
         {
@@ -47,6 +48,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/244999_1-nandini-goodlife-toned-milk.jpg",
             "name": "GoodLife UHT Treated Toned Milk",
             "rating": "3.7",
+            "Price": "61",
             "CartQuantity": 1
         },
         {
@@ -62,6 +64,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/70001169_11-english-oven-bread-brown.jpg",
             "name": "Bread - Brown",
             "rating": "3.9",
+            "Price": "32",
             "CartQuantity": 1
         },
         {
@@ -149,6 +152,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/279588_7-amul-malai-paneer.jpg",
             "name": "Malai Paneer",
             "rating": "3.9",
+            "Price": "118",
             "weight": "200 g Pouch - Rs 91.00",
             "CartQuantity": 1
         },
@@ -197,6 +201,7 @@
             "name": "Milk Shake - Chocolate",
             "rating": "4.2",
             "weight": "180 ml - Rs 40.00",
+            "Price": "122",
             "CartQuantity": 1
         },
         {
@@ -211,6 +216,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/258324_8-nandini-butter-milk-spiced.jpg",
             "name": "Buttermilk - Spiced",
             "rating": "4.2",
+            "Price": "60",
             "CartQuantity": 1
         },
         {
@@ -243,6 +249,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/40087525_5-fresho-sandwich-bread-safe-preservative-free.jpg",
             "name": "Sandwich Bread - Safe, Preservative Free",
             "rating": "3.6",
+            "Price": "95",
             "weight": "200 g - Rs 32.00",
             "CartQuantity": 1
         },
@@ -252,6 +259,7 @@
             "name": "Taaza Homogenised Toned Milk",
             "rating": "4.2",
             "weight": "1 L Carton - Rs 72.00",
+            "Price": "50",
             "CartQuantity": 1
         },
         {
@@ -267,6 +275,7 @@
             "name": "Toastea Premium Bake Rusk - With Real Elaichi, Crunchy, Zero Trans Fat",
             "rating": "4.1",
             "weight": "150 g - Rs 30.00",
+            "Price": "150",
             "CartQuantity": 1
         },
         {
@@ -283,6 +292,7 @@
             "image": "https://www.bigbasket.com/media/uploads/p/s/40164581_5-farm-connect-organic-high-protein-paneer.jpg",
             "name": "Organic High Protein Paneer",
             "rating": "3.9",
+            "Price": "118",
             "CartQuantity": 1
         }
     ],

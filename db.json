@@ -6,13 +6,15 @@
             "name": "Paneer - Rich In Protein, Calcium, Excellent Taste",
             "rating": "3.9",
             "weight": "200 g Pouch - Rs 101.00",
-            "Price": "101"
+            "Price": "101",
+            "CartQuantity": 1
         },
         {
             "id": 2,
             "image": "https://www.bigbasket.com/media/uploads/p/s/100285703_15-nandini-goodlife-toned-milk.jpg",
             "name": "GoodLife UHT Treated Toned Milk",
-            "rating": "4.1"
+            "rating": "4.1",
+            "CartQuantity": 1
         },
         {
             "id": 3,
@@ -20,14 +22,16 @@
             "name": "Butter - Pasteurized",
             "rating": "4.1",
             "weight": "4x100 g Multipack - Rs 214.00",
-            "Price": "214"
+            "Price": "214",
+            "CartQuantity": 1
         },
         {
             "id": 4,
             "image": "https://www.bigbasket.com/media/uploads/p/s/40276324_2-milky-mist-curd-rich-in-taste-no-added-preservatives.jpg",
             "name": "Curd/Dahi - No Preservatives Added",
             "rating": "4.2",
-            "Price": "35"
+            "Price": "35",
+            "CartQuantity": 1
         },
         {
             "id": 5,
@@ -35,56 +39,65 @@
             "name": "Treat Croissant - Cocoa Creme Filling, 100% Veg, Soft",
             "rating": "4.1",
             "weight": "6x45 g Multipack - Rs 87.00",
-            "Price": "87"
+            "Price": "87",
+            "CartQuantity": 1
         },
         {
             "id": 6,
             "image": "https://www.bigbasket.com/media/uploads/p/s/244999_1-nandini-goodlife-toned-milk.jpg",
             "name": "GoodLife UHT Treated Toned Milk",
-            "rating": "3.7"
+            "rating": "3.7",
+            "CartQuantity": 1
         },
         {
             "id": 7,
             "image": "https://www.bigbasket.com/media/uploads/p/s/242671_1-nandini-goodlife-toned-milk.jpg",
             "name": "GoodLife UHT Treated Toned Milk",
             "rating": "4",
-            "Price": "29"
+            "Price": "29",
+            "CartQuantity": 1
         },
         {
             "id": 8,
             "image": "https://www.bigbasket.com/media/uploads/p/s/70001169_11-english-oven-bread-brown.jpg",
             "name": "Bread - Brown",
-            "rating": "3.9"
+            "rating": "3.9",
+            "CartQuantity": 1
         },
         {
             "id": 9,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1204352_1-fresho-sandwich-bread-white-chemical-free-400g-eggs-regular-6pcs.jpg",
             "name": "Sandwich Bread - White, Chemical Free 400G + Eggs - Regular 6pcs",
-            "Price": "99"
+            "Price": "99",
+            "CartQuantity": 1
         },
         {
             "id": 10,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1204353_1-fresho-bread-brown-chemical-free-400g-eggs-regular-6pcs.jpg",
             "name": "Bread - Brown, Chemical Free 400G + Eggs - Regular 6pcs",
-            "Price": "104"
+            "Price": "104",
+            "CartQuantity": 1
         },
         {
             "id": 11,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1204354_1-fresho-bread-whole-wheat-chemical-free-400g-eggs-regular-6pcs.jpg",
             "name": "Bread - Whole Wheat, Chemical Free 400G + Eggs - Regular 6pcs",
-            "Price": "104"
+            "Price": "104",
+            "CartQuantity": 1
         },
         {
             "id": 12,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1204360_1-fresho-bread-whole-wheat-chemical-free-400g-eggs-table-tray-30pcs.jpg",
             "name": "Bread - Whole Wheat, Chemical Free 400G + Eggs - Table Tray 30pcs",
-            "Price": "284"
+            "Price": "284",
+            "CartQuantity": 1
         },
         {
             "id": 13,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1204357_1-fresho-bread-whole-wheat-chemical-free-400g-eggs-table-tray-12pcs.jpg",
             "name": "Bread - Whole Wheat, Chemical Free 400G + Eggs - Table Tray 12pcs",
-            "Price": "157"
+            "Price": "157",
+            "CartQuantity": 1
         },
         {
             "id": 14,
@@ -92,7 +105,8 @@
             "name": "Lactose Free Milk",
             "rating": "4.3",
             "weight": "6x250 ml Multipack - Rs 147.00",
-            "Price": "147"
+            "Price": "147",
+            "CartQuantity": 1
         },
         {
             "id": 15,
@@ -100,7 +114,8 @@
             "name": "Taaza Fresh Toned Milk",
             "rating": "4.2",
             "weight": "12x200 ml Multipack - Rs 188.16",
-            "Price": "188.16"
+            "Price": "188.16",
+            "CartQuantity": 1
         },
         {
             "id": 16,
@@ -108,7 +123,8 @@
             "name": "Masti Buttermilk - Spice",
             "rating": "4.2",
             "weight": "2x1 L Multipack - Rs 114.66",
-            "Price": "114.66"
+            "Price": "114.66",
+            "CartQuantity": 1
         },
         {
             "id": 17,
@@ -116,7 +132,8 @@
             "name": "Cheese Slices - Rich In Protein, Wholesome, No Added Sugar",
             "rating": "4.2",
             "weight": "200 g (10 Slices) - Rs 127.00",
-            "Price": "127"
+            "Price": "127",
+            "CartQuantity": 1
         },
         {
             "id": 18,
@@ -124,21 +141,24 @@
             "name": "Gobbles Choco Chill Cake, 115 g",
             "rating": "4.1",
             "weight": "2x115 g Multipack - Rs 54.00",
-            "Price": "54"
+            "Price": "54",
+            "CartQuantity": 1
         },
         {
             "id": 19,
             "image": "https://www.bigbasket.com/media/uploads/p/s/279588_7-amul-malai-paneer.jpg",
             "name": "Malai Paneer",
             "rating": "3.9",
-            "weight": "200 g Pouch - Rs 91.00"
+            "weight": "200 g Pouch - Rs 91.00",
+            "CartQuantity": 1
         },
         {
             "id": 20,
             "image": "https://www.bigbasket.com/media/uploads/p/s/40204406_1-britannia-chocolate-brownie.jpg",
             "name": "Fudge It Brownie - Chocolate",
             "rating": "4.2",
-            "Price": "15"
+            "Price": "15",
+            "CartQuantity": 1
         },
         {
             "id": 21,
@@ -146,45 +166,52 @@
             "name": "Treat Croissant - Vanilla Creme Filling, 100% Veg, Soft",
             "rating": "4",
             "weight": "6x45 g Multipack - Rs 87.00",
-            "Price": "87"
+            "Price": "87",
+            "CartQuantity": 1
         },
         {
             "id": 22,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1214489_4-britannia-treat-croissant-100-veg-cocoa-creme-roll-vanilla-creme-roll-2x45-g-each.jpg",
             "name": "Treat Croissant - with Cocoa Creme + with Vanilla Creme Filling (2 x 45g each)",
-            "Price": "64"
+            "Price": "64",
+            "CartQuantity": 1
         },
         {
             "id": 23,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1214490_2-britannia-treat-croissant-100-veg-cocoa-creme-roll-vanilla-creme-roll-3-x-45g-each.jpg",
             "name": "Treat Croissant - with Cocoa Creme + with Vanilla Creme Filling (3 x 45g each)",
-            "Price": "99"
+            "Price": "99",
+            "CartQuantity": 1
         },
         {
             "id": 24,
             "image": "https://www.bigbasket.com/media/uploads/bpi/bangalore/s/40189284_3-mother-dairy-malai-paneer-rich-in-protein-calcium-made-from-cows-milk-creamy-for-snacks-gravy-dishes.jpg",
             "name": "Ultimate Malai Paneer - Fresh, High Protein",
             "rating": "3.8",
-            "Price": "85.50"
+            "Price": "85.50",
+            "CartQuantity": 1
         },
         {
             "id": 25,
             "image": "https://www.bigbasket.com/media/uploads/p/s/40088412_6-hersheys-milk-shake-chocolate.jpg",
             "name": "Milk Shake - Chocolate",
             "rating": "4.2",
-            "weight": "180 ml - Rs 40.00"
+            "weight": "180 ml - Rs 40.00",
+            "CartQuantity": 1
         },
         {
             "id": 26,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1222838_1-bb-combo-britannia-treat-croissant-cocoa-45-g-nescafe-classic-instant-coffee-50-g.jpg",
             "name": "Britannia Treat Croissant - Cocoa 45 g + Nescafe Classic Instant Coffee 50 g",
-            "Price": "165.50"
+            "Price": "165.50",
+            "CartQuantity": 1
         },
         {
             "id": 27,
             "image": "https://www.bigbasket.com/media/uploads/p/s/258324_8-nandini-butter-milk-spiced.jpg",
             "name": "Buttermilk - Spiced",
-            "rating": "4.2"
+            "rating": "4.2",
+            "CartQuantity": 1
         },
         {
             "id": 28,
@@ -192,7 +219,8 @@
             "name": "Cheese Slices - Made From Cow Milk",
             "rating": "4.2",
             "weight": "663 g (39 Slices x 17 g Each) - Rs 461.00",
-            "Price": "461"
+            "Price": "461",
+            "CartQuantity": 1
         },
         {
             "id": 29,
@@ -200,40 +228,46 @@
             "name": "Curd/Dahi - No Preservatives Added",
             "rating": "4.1",
             "weight": "1 kg Bucket - Rs 107.00",
-            "Price": "107"
+            "Price": "107",
+            "CartQuantity": 1
         },
         {
             "id": 30,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1221549_1-britannia-treat-croissant-cocoa-creme-filling-2x45g-treat-croissant-mixed-fruit-2x47g.jpg",
             "name": "Treat Croissant-Cocoa Creme Filling 2x45g + Treat Croissant-Mixed Fruit 2x47g",
-            "Price": "67"
+            "Price": "67",
+            "CartQuantity": 1
         },
         {
             "id": 31,
             "image": "https://www.bigbasket.com/media/uploads/p/s/40087525_5-fresho-sandwich-bread-safe-preservative-free.jpg",
             "name": "Sandwich Bread - Safe, Preservative Free",
             "rating": "3.6",
-            "weight": "200 g - Rs 32.00"
+            "weight": "200 g - Rs 32.00",
+            "CartQuantity": 1
         },
         {
             "id": 32,
             "image": "https://www.bigbasket.com/media/uploads/p/s/306926_4-amul-homogenised-toned-milk.jpg",
             "name": "Taaza Homogenised Toned Milk",
             "rating": "4.2",
-            "weight": "1 L Carton - Rs 72.00"
+            "weight": "1 L Carton - Rs 72.00",
+            "CartQuantity": 1
         },
         {
             "id": 33,
             "image": "https://www.bigbasket.com/media/uploads/p/s/1221548_1-britannia-bourbon-chocolate-cream-biscuits-150-g-treat-croissant-cocoa-creme-45-g.jpg",
             "name": "Bourbon Chocolate Cream Biscuits 150 g + Treat Croissant - Cocoa Creme 45 g",
-            "Price": "49.48"
+            "Price": "49.48",
+            "CartQuantity": 1
         },
         {
             "id": 34,
             "image": "https://www.bigbasket.com/media/uploads/p/s/312169_15-britannia-bake-rusk-toast.jpg",
             "name": "Toastea Premium Bake Rusk - With Real Elaichi, Crunchy, Zero Trans Fat",
             "rating": "4.1",
-            "weight": "150 g - Rs 30.00"
+            "weight": "150 g - Rs 30.00",
+            "CartQuantity": 1
         },
         {
             "id": 35,
@@ -241,13 +275,15 @@
             "name": "Soya Drink Vanilla",
             "rating": "4.2",
             "weight": "2x1 L Multipack - Rs 228.00",
-            "Price": "228"
+            "Price": "228",
+            "CartQuantity": 1
         },
         {
             "id": 36,
             "image": "https://www.bigbasket.com/media/uploads/p/s/40164581_5-farm-connect-organic-high-protein-paneer.jpg",
             "name": "Organic High Protein Paneer",
-            "rating": "3.9"
+            "rating": "3.9",
+            "CartQuantity": 1
         }
     ],
     "Users": []
